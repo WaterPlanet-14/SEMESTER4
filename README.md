@@ -1,7 +1,7 @@
 # SEMESTER4
-# Semester 3 Study Materials
+# Semester 4 Study Materials
 
-Welcome to the Semester 3 study materials repository! This repository is designed to help you access and organize the study materials you need for your third semester of studies. Whether you're a student or an educator, you'll find a collection of files and resources to enhance your learning experience.
+Welcome to the Semester 4 study materials repository! This repository is designed to help you access and organize the study materials you need for your third semester of studies. Whether you're a student or an educator, you'll find a collection of files and resources to enhance your learning experience.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the Semester 3 study materials repository! This repository is designe
 
 ## Course Syllabus
 
-- [Semester 3 Syllabus.pdf](syllabus/Semester%203%20Syllabus.pdf) - A comprehensive overview of the courses, topics, and objectives for this semester.
+- [Semester 4 Syllabus.pdf](syllabus/Semester%203%20Syllabus.pdf) - A comprehensive overview of the courses, topics, and objectives for this semester.
 
 ## Lecture Notes
 
